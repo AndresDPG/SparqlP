@@ -16,3 +16,8 @@ Software original https://jena.apache.org/documentation/fuseki2/index.html#downl
       ?s <http://www.w3.org/1999/02/22-rdf-syntax-ns#Authors> ?authors
   }
 ```
+5. La consulta debe arrojar el sguiente resultado:
+
+```
+<a href="https://github.com/AndresDPG/SparqlP.git/master/query.png"><img src="https://github.com/AndresDPG/SparqlP.git/master/query.png" /></a>
+```
