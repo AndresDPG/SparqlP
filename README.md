@@ -20,3 +20,5 @@ Software original https://jena.apache.org/documentation/fuseki2/index.html#downl
 
 ![query](https://user-images.githubusercontent.com/32043493/56515785-59a58000-64fe-11e9-9226-f54d94b8af6e.png)
 
+
+En total hay 17457 autores (sin repetirse ninguno).
