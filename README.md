@@ -18,6 +18,5 @@ Software original https://jena.apache.org/documentation/fuseki2/index.html#downl
 ```
 5. La consulta debe arrojar el sguiente resultado:
 
-```
-<a href="https://github.com/AndresDPG/SparqlP.git/master/query.png"><img src="https://github.com/AndresDPG/SparqlP.git/master/query.png" /></a>
-```
+![query](https://user-images.githubusercontent.com/32043493/56515785-59a58000-64fe-11e9-9226-f54d94b8af6e.png)
+
