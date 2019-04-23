@@ -23,4 +23,4 @@ Software original https://jena.apache.org/documentation/fuseki2/index.html#downl
 
 En total hay 17457 autores (sin repetirse ninguno).
 
-PDT: El archivo bd.ttl contiene toda la informacion que se subio al endpoint Sparql (Base de datos con los 2500 registros)
+PDT: El archvo bd.ttl contiene toda la informacion que se subio al endpoint Sparql (Base de datos con los 2500 registros)
